@@ -29,11 +29,11 @@ url: "https://willianpc.github.io" # the base hostname & protocol for your site,
 github_username:  willianpc
 
 # Build settings
-# theme: minima
+theme: minima
 
 # remote_theme: pages-themes/cayman@v0.2.0
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 
 
 # theme: "mmistakes/minimal-mistakes@master"
