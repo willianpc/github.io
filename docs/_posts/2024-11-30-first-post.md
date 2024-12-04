@@ -8,7 +8,10 @@ I have succeeded slightly and briefly in the past. Wrote some stuff about progra
 
 Most of times I was primarily writing for myself, as a journal of things I've learned. Basically what used to be a text file somewhere on my emails, or Dropbox became publicly available in the hope that someone else could benefit from that.
 
-My motivation this time is almost the same, but with a bigger focus on sharing my experience with things.
+My motivation this time is almost the same, but with a bigger focus on sharing my experience.
+
+I was also inspired by my friend [Gilmar Soares](https://linuxsoares.github.io/), who has provided some cool content on his blog.
+I actually "stole" his idea of using Github Pages to create my blog. Thanks, Gilmar!
 
 More speficially Observability, Kubernetes and Go. Or a combination of them. Or not.
 
