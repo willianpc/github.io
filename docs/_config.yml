@@ -21,19 +21,10 @@ title: The Average Developer
 author: Willian Carvalho
 description: Powered by HI (Human Intelligence)
 email: willianc@pm.me
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Blog and stuff
-# baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "/"
 url: "https://willianpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jekyllrb
-github_username:  willianpc
-
-
-# Build settings
-theme: minima
-
-# social_links:
-#   - { platform: linkedin, user_url: "https://www.linkedin.com/in/wcarvalho" }
 
 linkedin_username: wcarvalho
+github_username:  willianpc
+
+theme: minima
