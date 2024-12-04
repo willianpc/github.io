@@ -34,8 +34,8 @@ github_username:  willianpc
 # Build settings
 theme: minima
 
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 
 # remote_theme: pages-themes/cayman@v0.2.0
 
@@ -48,9 +48,9 @@ minima:
 
 # theme: jekyll-theme-cayman
 
-plugins:
+# plugins:
   # - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
