@@ -18,78 +18,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: The Average Developer
-subtitle: Powered by Human "Intelligence"
+author: Willian Carvalho
+description: Powered by HI (Human Intelligence)
 email: willianc@pm.me
-description: >- # this means to ignore newlines until "baseurl:"
-  Blog and stuff
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Blog and stuff
 # baseurl: "" # the subpath of your site, e.g. /blog
 baseurl: "/"
 url: "https://willianpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  willianpc
 
-# remote_theme: pages-themes/cayman@v0.2.0
-
 
 # Build settings
 theme: minima
 
-# minima:
-#   skin: dark
+ social_links:
+  - { platform: linkedin, user_url: "https://www.linkedin.com/in/wcarvalho" }
 
-# remote_theme: pages-themes/cayman@v0.2.0
-
-# theme: jekyll-theme-slate
-
-
-# theme: "mmistakes/minimal-mistakes@master"
-# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-# minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-# theme: jekyll-theme-cayman
-
-# plugins:
-  # - jekyll-feed
-  # - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# encoding: "utf-8"
-# markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-# Conversion
-# markdown: kramdown
-# highlighter: rouge
-# lsi: false
-# excerpt_separator: "\n\n"
-# incremental: false
-
-
-# Markdown Processing
-# kramdown:
-#   input: GFM
-#   hard_wrap: false
-#   auto_ids: true
-#   footnote_nr: 1
-#   entity_output: as_char
-#   toc_levels: 1..6
-#   smart_quotes: lsquo,rsquo,ldquo,rdquo
-#   enable_coderay: false
