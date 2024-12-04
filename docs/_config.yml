@@ -28,8 +28,6 @@ url: "https://willianpc.github.io" # the base hostname & protocol for your site,
 github_username:  willianpc
 
 remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
 # Build settings
@@ -48,6 +46,7 @@ plugins:
 
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Exclude from processing.
 # The following items will not be processed, by default.
