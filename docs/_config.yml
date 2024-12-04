@@ -27,6 +27,11 @@ url: "https://willianpc.github.io" # the base hostname & protocol for your site,
 # twitter_username: jekyllrb
 github_username:  willianpc
 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
 # Build settings
 # theme: minima
 
@@ -39,7 +44,7 @@ github_username:  willianpc
 # remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 
 plugins:
   - jekyll-feed

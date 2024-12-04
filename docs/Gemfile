@@ -17,9 +17,6 @@ gem "github-pages", "~> 232", group: :jekyll_plugins
 # gem "minimal-mistakes-jekyll", path: ".."
 # gem rake
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
